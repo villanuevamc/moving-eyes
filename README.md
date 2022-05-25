@@ -1,4 +1,5 @@
 <img src="moving-eyes.png">
+
 # Moving Eyes
 This Moving Eyes exercise contains code for setting up two eyes that follow a mouse cursor as it moves around the screen. The eyes move in tandem with one another.
 
